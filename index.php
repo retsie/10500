@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<table>
+	<?php for($i = 0; $i<10500; $i++) { ?>
+	<tr>
+		<td><?= $i ?></td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+		<td>tatatatata</td>
+	</tr>
+	<?php } ?>
+</table>
+</body>
+</html>
